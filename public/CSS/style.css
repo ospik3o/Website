@@ -1,6 +1,7 @@
+
 body {
-	background-color: #fff;
-	color: #777;
+	/*background-color: #fff;*/
+	/*color: #777;*/
 	font: normal 15px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
 }
 
@@ -111,7 +112,7 @@ header nav ul li a {
 #homepage-image {
 	height: 680px;
 	padding-top: 1px;
-	background: #FFFFFF url('../images/Brooklyn.jpg') no-repeat center;
+	background: url('../images/Brooklyn.jpg') no-repeat center;
 }
 
 #homepage-image h2 {
@@ -119,9 +120,9 @@ header nav ul li a {
 }
 
 #fashion-image {
-	height: 640px;
+	height: 680px;
 	padding-top: 1px;
-	background: #FFFFFF url('../images/Fashion.jpg') no-repeat center;
+	background: url('../images/Fashion.jpg') no-repeat center;
   text-align: center;
 }
 #fashion-image h2 {
@@ -151,7 +152,7 @@ header nav ul li a {
 }
 footer {
 	padding: 60px 0;
-	background-color: #f8fafa;
+	background-color: #FFFFFF;
 }
 
 #footer-info {
