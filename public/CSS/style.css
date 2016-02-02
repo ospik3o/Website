@@ -112,7 +112,7 @@ header nav ul li a {
 #homepage-image {
 	height: 680px;
 	padding-top: 1px;
-	background: url('../images/Brooklyn.jpg') no-repeat center;
+	background: url('/images/Brooklyn.jpg') no-repeat center;
 }
 
 #homepage-image h2 {
