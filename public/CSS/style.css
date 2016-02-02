@@ -112,7 +112,7 @@ header nav ul li a {
 #homepage-image {
 	height: 680px;
 	padding-top: 1px;
-	background: url('/images/Brooklyn.jpg') no-repeat center;
+	background: url('/Images/Brooklyn.jpg') no-repeat center;
 }
 
 #homepage-image h2 {
@@ -122,7 +122,7 @@ header nav ul li a {
 #fashion-image {
 	height: 680px;
 	padding-top: 1px;
-	background: url('../images/Fashion.jpg') no-repeat center;
+	background: url('/Images/Fashion.jpg') no-repeat center;
   text-align: center;
 }
 #fashion-image h2 {
@@ -131,7 +131,7 @@ header nav ul li a {
 #portfolio-image {
 	height: 680px;
 	padding-top: 1px;
-	background: #FFFFFF url('../images/Portfolio.jpg') no-repeat center;
+	background: #FFFFFF url('/Images/Portfolio.jpg') no-repeat center;
 }
 .button-1 {
 	display: block;
